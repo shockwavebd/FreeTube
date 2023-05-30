@@ -46,7 +46,7 @@
         "nameTranslationKey": "Settings.External Player Settings.Players.MPC-BE.Name",
         "value": "mpc-be",
         "cmdArguments": {
-            "defaultExecutable": "C:\Program Files\MPC-BE x64\mpc-be64.exe",
+            "defaultExecutable": "mpc-be64",
             "defaultCustomArguments": null,
             "supportsYtdlProtocol": false,
             "videoUrl": "",
