@@ -42,6 +42,24 @@
         }
     },
     {
+        "name": "MPC-BE",
+        "nameTranslationKey": "Settings.External Player Settings.Players.MPC-BE.Name",
+        "value": "mpc-be",
+        "cmdArguments": {
+            "defaultExecutable": "mpc-be64",
+            "defaultCustomArguments": null,
+            "supportsYtdlProtocol": true,
+            "videoUrl": "",
+            "playlistUrl": "",
+            "startOffset": "/startpos",
+            "playbackRate": null,
+            "playlistIndex": null,
+            "playlistReverse": null,
+            "playlistShuffle": null,
+            "playlistLoop": null
+        }
+    },
+    {
         "name": "iina",
         "nameTranslationKey": "Settings.External Player Settings.Players.iina.Name",
         "value": "iina",
