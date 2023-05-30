@@ -51,7 +51,7 @@
             "supportsYtdlProtocol": false,
             "videoUrl": "",
             "playlistUrl": "",
-            "startOffset": "/startpos",
+            "startOffset": null,
             "playbackRate": null,
             "playlistIndex": null,
             "playlistReverse": null,
